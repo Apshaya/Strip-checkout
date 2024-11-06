@@ -1,0 +1,19 @@
+{
+  "name": "strip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "nodeman": "^1.1.2",
+    "nodemon": "^3.1.7",
+    "stripe": "^17.3.1"
+  }
+}
